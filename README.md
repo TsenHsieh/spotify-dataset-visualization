@@ -7,5 +7,5 @@ https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset?resource=
 Data visualization are implemented by using D3.js.
 
 ### Charts
-![](fig/img_1.jpg)
+![](./fig/img_1.jpg)
 
